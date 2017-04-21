@@ -1,0 +1,9 @@
+Building ShadowCoin
+
+See doc/readme-qt.rst for instructions on building ShadowCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ShadowCoin.
+
+See doc/build-*.txt for instructions on building ultimatesecurecashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ShadowCoin.
